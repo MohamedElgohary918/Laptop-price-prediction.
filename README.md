@@ -50,6 +50,4 @@ The following models were trained and evaluated:
 ## 🚀 Deployment
 - The trained **Random Forest model** was deployed using **Gradio**, offering a simple, interactive interface for real-time laptop price prediction.
 
----
 
-## 🗂 Project Structure
