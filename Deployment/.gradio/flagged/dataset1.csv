@@ -1,0 +1,2 @@
+Company,TypeName,Ram (GB),Weight (kg),"IPS Panel (1=Yes, 0=No)",PPI (Pixels Per Inch),CPU Brand,SSD (GB),HDD (GB),GPU Brand,Operating System (OS),output,timestamp
+HP,Notebook,16,1.5,0,250,Intel Core i7,256,512,Nvidia,Windows,,2025-07-15 14:54:17.113292
